@@ -33,7 +33,7 @@ List of files in the folder harshit_bhatt_josemar_dacruz
 
 	FOLDER/PACKAGE Util:
 	- GetOpt.java - contains the GetOpt class which is necessary to parse the command line arguments.
-- Util.java - part of ASN1 library
+	- Util.java - part of ASN1 library
 
 
 CLIENT
