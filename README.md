@@ -37,6 +37,7 @@ List of files in the folder harshit_bhatt_josemar_dacruz
 
 
 CLIENT
+
 The client is organized as follows:
 1. Getopt parameters parsing (port number and database path);
 2. Encodes the data into ASN1 with implicit TAG values;
@@ -55,6 +56,7 @@ stop sending the data.
 
 
 SERVER
+
 The server is organized as follows:
 1. Getopt parameters parsing (port number and database path);
 2. Database creation if it doesn’t exists;
